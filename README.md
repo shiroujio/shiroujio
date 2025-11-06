@@ -6,9 +6,9 @@
 
 
 
-un estudiante autodidacta y apasionado.
+Un estudiante autodidacta y apasionado.
 
-- ⚡ **curso el 4to año de la carrera de ingenieria de sistemas en la universidad nacional de ingenieria.
+- ⚡ Curso el 4to año de la carrera de ingenieria de sistemas en la universidad nacional de ingenieria.
 - 🔭 Estudiante activo:
 	- Desarrollador independiemte 
 	-Gamer
